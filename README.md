@@ -25,5 +25,16 @@ I have learned the following:
 Overall, this project aims to empower businesses with the necessary tools and insights to monitor, evaluate, and enhance their sales activities. By leveraging sales data analysis, businesses can unlock new opportunities, drive growth, and stay competitive in the dynamic market landscape.
 
 **Final Result:**
-Market Performance
-![image](https://github.com/Sbisht1912/Sales_Analytics/assets/139325522/3ab575ea-65bb-4255-8f95-cd8cb37fbbce)
+
+**Market Performance**
+![image](https://github.com/Sbisht1912/Sales_Analytics/assets/139325522/3ab575ea-65bb-4255-8f95-cd8cb37fbbce) 
+
+
+**Sales Performance**
+![image](https://github.com/Sbisht1912/Sales_Analytics/assets/139325522/11dc0881-a384-402d-84e2-4818132bb6ce)
+
+
+**P & L Reports by Fiscal years**
+![image](https://github.com/Sbisht1912/Sales_Analytics/assets/139325522/e8d40f21-3728-45d4-a7c6-b6462bb4740c)
+
+
