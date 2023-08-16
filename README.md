@@ -1,4 +1,4 @@
-Project Title: Sales Analytics(FMCG)
+**Project Title: Sales Analytics(FMCG)**
 
 ********************
 
